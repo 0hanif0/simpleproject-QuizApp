@@ -1,4 +1,4 @@
-# QuizApp
+# Quiz App
 - Basic HTML, CSS and JavaScript
 - simple quiz app
 
